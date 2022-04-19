@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, My name is Hyunjae Kim
+#### Im interested in overall of AI and its computer vision tasks.
 
 <!--
 **pstkim/pstkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
